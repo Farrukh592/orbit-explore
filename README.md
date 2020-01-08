@@ -1,4 +1,4 @@
 # orbit-explore
 This is my university project 
 
-[Output](preview.jpg)
+[Output](C:\Users\farru\Desktop\orbit-explore\preview.jpg)
