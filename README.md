@@ -1,4 +1,4 @@
-# orbit-explore
+# Orbit Explore
 This is my university project 
 
 ## Output
